@@ -12,6 +12,14 @@ h1 {
 	font-weight: 400;
 	}
 
+@font-face {
+  font-family: "Poiret One";
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poiret One'), local('PoiretOne-Regular'), url(https://fonts.gstatic.com/l/font?kit=ObxytbfKasUWX7_ipglurChqGa-CSr3nQtF3lrv2wWeu7RP096c_0cFQ7arjjB7ybFaXKHeky_O7IdzbE_trRh2NL1ThVuLv506WDWjwTFK0tkCcv8VGcP6XCC56Ww8-&skey=b92d66791719178) format('woff2');
+}
+
+
 .shining
 {
     background: -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
