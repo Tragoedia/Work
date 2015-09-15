@@ -1,5 +1,15 @@
+.title {
+	color: hotpink;
+	
+}
+
 h1 {
 	text-align: center;
+	margin-top: 25%;
+	font-size: 50px;
+	font-family: "Poiret One";
+	font-style: normal;
+	font-weight: 400;
 	}
 
 .shining
@@ -26,6 +36,6 @@ h1 {
 }
 
 body {
-	background: #333 url(images/bg-space-tile.gif) top center fixed repeat-x
+	background: #FFFFFF 
 }
 
