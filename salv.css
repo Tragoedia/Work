@@ -4,13 +4,13 @@
 }
 
 h1 {
+	color: #C0C0C0;
 	text-align: center;
 	margin-top: 20%;
 	font-size: 50px;
 	font-family: "Poiret One";
 	font-style: normal;
 	font-weight: 400;
-	text-shadow: 2px 2px #C0C0C0;
 	}
 
 @font-face {
