@@ -1,16 +1,16 @@
 .title {
 	color: hotpink;
-	
+	text-shadow: none;
 }
 
 h1 {
 	text-align: center;
-	margin-top: 25%;
+	margin-top: 20%;
 	font-size: 50px;
 	font-family: "Poiret One";
 	font-style: normal;
 	font-weight: 400;
-	text-shadow: 2px 2px #333;
+	text-shadow: 2px 2px #C0C0C0;
 	}
 
 @font-face {
@@ -23,7 +23,7 @@ h1 {
 
 .shining
 {
-    background: -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
+    background: -webkit-gradient(ease, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
     -webkit-background-size: 125px;
 	color: rgba(255, 255, 255, 0.1);
     -webkit-background-clip: text;
@@ -34,11 +34,11 @@ h1 {
 
 @-webkit-keyframes shine
 {
-	0%
-	{
+0%
+ {
 	background-position: top left;
-    }
-    100%
+ }
+100%
 	{
 	background-position: top right;
     }
