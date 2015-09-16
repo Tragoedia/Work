@@ -4,13 +4,13 @@
 }
 
 h1 {
+	color: #C0C0C0;
 	text-align: center;
 	margin-top: 20%;
 	font-size: 50px;
 	font-family: "Poiret One";
 	font-style: normal;
 	font-weight: 400;
-	text-shadow: 2px 2px #C0C0C0;
 	}
 
 @font-face {
@@ -23,12 +23,12 @@ h1 {
 
 .shining
 {
-    background: -webkit-gradient(ease, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
+    background: -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
     -webkit-background-size: 125px;
 	color: rgba(255, 255, 255, 0.1);
     -webkit-background-clip: text;
     -webkit-animation-name: shine;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 20s;
     -webkit-animation-iteration-count: infinite;
 }
 
