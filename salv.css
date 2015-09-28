@@ -44,6 +44,14 @@ h1 {
     }
 }
 
+.quote {
+	color: black;
+	font-family: "Poiret One";
+	font-size: 14px;
+  text-align: center;
+  margin-top: -7%;
+}
+
 .links {
 	color: black;
 	font-family: "Poiret One";
