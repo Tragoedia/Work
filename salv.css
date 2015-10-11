@@ -63,6 +63,24 @@ h1 {
 }
 
 body {
-	background: #FFFFFF 
+	background: #FFFFFF;
+    height: 400vh;
+}
+
+.top {
+    height: 100vh;
+}
+
+.midtop {
+    height: 100vh;
+}
+
+.midbot {
+    height: 100vh;
+}
+
+.bot {
+    height: 100vh;
+    background-color: #1b1e1e;
 }
 
